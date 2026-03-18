@@ -1,0 +1,6 @@
+
+User-agent: *
+Disallow:
+
+Disallow: /cgi-bin/
+Sitemap: https://sheranisevents.in/sitemap.xml
